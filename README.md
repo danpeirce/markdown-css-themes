@@ -1,18 +1,14 @@
-# Markdown css theme collection
+# CSS Used On My Pages
 
-* [Light](http://jasonm23.github.com/markdown-css-themes/index.html)
-* [Foghorn](http://jasonm23.github.com/markdown-css-themes/foghorn.html)
-* [Swiss](http://jasonm23.github.com/markdown-css-themes/swiss.html)
+I was looking for a simple CSS sheet to use with my projects. I forked from 
+<https://github.com/jasonm23/markdown-css-themes> and picked a file I liked and modified it
+to suite my needs. The modified file is simply called white.css.
 
-Do what you want with them... 
+The repository I copied from was in the public domain and so my modified version is also.
 
-# Contributing
+## White.css has been used in my Web Pages
 
-Go ahead and fork, make a copy of the index.html and add/edit a css, throw them in a jsfiddle, and send a pull request along with the jsfiddle link so I can review them.
+See <http://www3.telus.net/danpeirce/notes/python_markdown.html>
 
-
-
-
-
-
+I expect I will be modifying that page soon.
 
