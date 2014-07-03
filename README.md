@@ -1,31 +1,14 @@
-# Markdown CSS
+# CSS Used On My Pages
 
-This is a simple style with normalized defaults, it should work on anything from a desktop, to a phone.
+I was looking for a simple CSS sheet to use with my projects. I forked from 
+<https://github.com/jasonm23/markdown-css-themes> and picked a file I liked and modified it
+to suite my needs. The modified file is simply called white.css.
 
-View the live preview here: http://jasonm23.github.com/Markdown-CSS/image.jpg
+The repository I copied from was in the public domain and so my modified version is also.
 
-## How to use
+## White.css has been used in my Web Pages
 
-Add this to the top of your markdown file
-```
-<link href="https://raw.github.com/jasonm23/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
-```
-### Editing
-With Markdown CSS, I decided to base all the size off the body font-size. Simply changing the body font size will also change the heading's size, body width, etc.
+See <http://www3.telus.net/danpeirce/notes/python_markdown.html>
 
-Since the CSS also uses media queries, it might also be necessary to change the body font-size for your purposes. I do not have any cool phones or tablets, so the extent of my testing was done by resizing my browser window.
+I expect I will be modifying that page soon.
 
-## Print
-Also included is a printing media query. It has not been tested yet, and mainly uses HTML5 Boilerplate defaults.
-
-
-## Credits
-- [HTML5 Boilerplate](http://h5bp.com) - For normalize.css and media queries.
-- [Markdown.css](http://kevinburke.bitbucket.org/markdowncss) - For inspiration.
-- Various other web resources for inspiration.
-
-## License
-
-![copyleft](http://unlicense.org/pd-icon.png)
-
-[http://unlicense.org/](http://unlicense.org/)
